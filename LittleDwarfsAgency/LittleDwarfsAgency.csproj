@@ -67,6 +67,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+    <None Include="Properties\PublishProfiles\LittleDwarfsAgency - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -75,10 +76,26 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\LittleDwarfsAgency.mdf" />
+    <Content Include="App_Data\LittleDwarfsAgency_log.ldf">
+      <DependentUpon>LittleDwarfsAgency.mdf</DependentUpon>
+    </Content>
+    <Content Include="App_Data\PeriodsWorked.xml" />
+    <Content Include="App_Data\Timesheets.xml" />
+    <Content Include="App_Data\InvoiceLists.xml" />
+    <Content Include="App_Data\Invoices.xml" />
     <Content Include="Web.config" />
+    <Content Include="XMLHandler.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="XMLHandler.aspx.cs">
+      <DependentUpon>XMLHandler.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="XMLHandler.aspx.designer.cs">
+      <DependentUpon>XMLHandler.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

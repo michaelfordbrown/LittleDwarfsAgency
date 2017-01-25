@@ -1,0 +1,10 @@
+﻿USE [C:\USERS\MICHA\SOURCE\REPOS\LITTLEDWARFSAGENCY\LITTLEDWARFSAGENCY\LITTLEDWARFSAGENCY\APP_DATA\LITTLEDWARFSAGENCY.MDF]
+GO
+
+DECLARE	@return_value Int
+
+EXEC	@return_value = [dbo].[ClearAllTablesProcedure]
+
+SELECT	@return_value as 'Return Value'
+
+GO

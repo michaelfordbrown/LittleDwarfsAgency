@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<InvLists>
+  <InvList>
+    <Id>	1001	</Id>
+    <Invoice>	499	</Invoice>
+    <Weekending>	11-Sep-2016	</Weekending>
+    <Timesheet>	463609	</Timesheet>
+    <Hours>	19.08	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	276.66	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1002	</Id>
+    <Invoice>	499	</Invoice>
+    <Weekending>	11-Sep-2016	</Weekending>
+    <Timesheet>	463803	</Timesheet>
+    <Hours>	6	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	87	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1003	</Id>
+    <Invoice>	499	</Invoice>
+    <Weekending>	11-Sep-2016	</Weekending>
+    <Timesheet>	463805	</Timesheet>
+    <Hours>	10	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	145	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1004	</Id>
+    <Invoice>	499	</Invoice>
+    <Weekending>	11-Sep-2016	</Weekending>
+    <Timesheet>	463831	</Timesheet>
+    <Hours>	1	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	14.5	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1005	</Id>
+    <Invoice>	499	</Invoice>
+    <Weekending>	18-Sep-2016	</Weekending>
+    <Timesheet>	458409	</Timesheet>
+    <Hours>	4	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	58	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1006	</Id>
+    <Invoice>	499	</Invoice>
+    <Weekending>	18-Sep-2016	</Weekending>
+    <Timesheet>	458410	</Timesheet>
+    <Hours>	19	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	275.5	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1007	</Id>
+    <Invoice>	499	</Invoice>
+    <Weekending>	18-Sep-2016	</Weekending>
+    <Timesheet>	458412	</Timesheet>
+    <Hours>	10.25	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	148.63	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1008	</Id>
+    <Invoice>	499	</Invoice>
+    <Weekending>	18-Sep-2016	</Weekending>
+    <Timesheet>	463808	</Timesheet>
+    <Hours>	1	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	14.5	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1009	</Id>
+    <Invoice>	499	</Invoice>
+    <Weekending>	18-Sep-2016	</Weekending>
+    <Timesheet>	463811	</Timesheet>
+    <Hours>	1	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	14.5	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1010	</Id>
+    <Invoice>	499	</Invoice>
+    <Weekending>	25-Sep-2016	</Weekending>
+    <Timesheet>	458404	</Timesheet>
+    <Hours>	23.92	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	346.84	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1011	</Id>
+    <Invoice>	499	</Invoice>
+    <Weekending>	25-Sep-2016	</Weekending>
+    <Timesheet>	458405	</Timesheet>
+    <Hours>	12.75	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	184.88	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1012	</Id>
+    <Invoice>	499	</Invoice>
+    <Weekending>	25-Sep-2016	</Weekending>
+    <Timesheet>	458411	</Timesheet>
+    <Hours>	1	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	14.5	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1013	</Id>
+    <Invoice>	783	</Invoice>
+    <Weekending>	03-Oct-2016	</Weekending>
+    <Timesheet>	463838	</Timesheet>
+    <Hours>	6	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	87	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1014	</Id>
+    <Invoice>	783	</Invoice>
+    <Weekending>	16-Oct-2016	</Weekending>
+    <Timesheet>	458862	</Timesheet>
+    <Hours>	3.5	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	50.75	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1015	</Id>
+    <Invoice>	783	</Invoice>
+    <Weekending>	16-Oct-2016	</Weekending>
+    <Timesheet>	468435	</Timesheet>
+    <Hours>	11.5	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	166.75	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1016	</Id>
+    <Invoice>	783	</Invoice>
+    <Weekending>	16-Oct-2016	</Weekending>
+    <Timesheet>	468454	</Timesheet>
+    <Hours>	6	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	87	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1017	</Id>
+    <Invoice>	783	</Invoice>
+    <Weekending>	23-Oct-2016	</Weekending>
+    <Timesheet>	457901	</Timesheet>
+    <Hours>	2.5	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	36.25	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1018	</Id>
+    <Invoice>	783	</Invoice>
+    <Weekending>	23-Oct-2016	</Weekending>
+    <Timesheet>	458550	</Timesheet>
+    <Hours>	19.5	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	282.75	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1019	</Id>
+    <Invoice>	783	</Invoice>
+    <Weekending>	30-Oct-2016	</Weekending>
+    <Timesheet>	457966	</Timesheet>
+    <Hours>	17.5	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	253.75	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1020	</Id>
+    <Invoice>	783	</Invoice>
+    <Weekending>	30-Oct-2016	</Weekending>
+    <Timesheet>	464364	</Timesheet>
+    <Hours>	2.5	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	36.25	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1021	</Id>
+    <Invoice>	1057	</Invoice>
+    <Weekending>	06-Nov-2016	</Weekending>
+    <Timesheet>	369899	</Timesheet>
+    <Hours>	6	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	87	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1022	</Id>
+    <Invoice>	1057	</Invoice>
+    <Weekending>	06-Nov-2016	</Weekending>
+    <Timesheet>	439214	</Timesheet>
+    <Hours>	7	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	101.5	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1023	</Id>
+    <Invoice>	1057	</Invoice>
+    <Weekending>	06-Nov-2016	</Weekending>
+    <Timesheet>	457186	</Timesheet>
+    <Hours>	18.5	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	268.25	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1024	</Id>
+    <Invoice>	1057	</Invoice>
+    <Weekending>	13-Nov-2016	</Weekending>
+    <Timesheet>	457088	</Timesheet>
+    <Hours>	20	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	290	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1025	</Id>
+    <Invoice>	1057	</Invoice>
+    <Weekending>	13-Nov-2016	</Weekending>
+    <Timesheet>	457185	</Timesheet>
+    <Hours>	6	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	87	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1026	</Id>
+    <Invoice>	1137	</Invoice>
+    <Weekending>	20-Nov-2016	</Weekending>
+    <Timesheet>	457543	</Timesheet>
+    <Hours>	15.5	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	224.75	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1027	</Id>
+    <Invoice>	1137	</Invoice>
+    <Weekending>	20-Nov-2016	</Weekending>
+    <Timesheet>	457604	</Timesheet>
+    <Hours>	3	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	43.5	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1028	</Id>
+    <Invoice>	1137	</Invoice>
+    <Weekending>	20-Nov-2016	</Weekending>
+    <Timesheet>	463876	</Timesheet>
+    <Hours>	3	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	43.5	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1029	</Id>
+    <Invoice>	1137	</Invoice>
+    <Weekending>	27-Nov-2016	</Weekending>
+    <Timesheet>	463741	</Timesheet>
+    <Hours>	5	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	72.5	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1030	</Id>
+    <Invoice>	1137	</Invoice>
+    <Weekending>	27-Nov-2016	</Weekending>
+    <Timesheet>	465328	</Timesheet>
+    <Hours>	6	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	87	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1031	</Id>
+    <Invoice>	1407	</Invoice>
+    <Weekending>	04-Dec-2016	</Weekending>
+    <Timesheet>	465737	</Timesheet>
+    <Hours>	17.67	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	256.22	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1032	</Id>
+    <Invoice>	1407	</Invoice>
+    <Weekending>	04-Dec-2016	</Weekending>
+    <Timesheet>	458920	</Timesheet>
+    <Hours>	3.5	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	50.75	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1033	</Id>
+    <Invoice>	1407	</Invoice>
+    <Weekending>	11-Dec-2016	</Weekending>
+    <Timesheet>	465734	</Timesheet>
+    <Hours>	5.5	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	79.75	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1034	</Id>
+    <Invoice>	1407	</Invoice>
+    <Weekending>	11-Dec-2016	</Weekending>
+    <Timesheet>	465974	</Timesheet>
+    <Hours>	7.5	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	108.75	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1035	</Id>
+    <Invoice>	1407	</Invoice>
+    <Weekending>	11-Dec-2016	</Weekending>
+    <Timesheet>	460414	</Timesheet>
+    <Hours>	3	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	43.5	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1036	</Id>
+    <Invoice>	1407	</Invoice>
+    <Weekending>	11-Dec-2016	</Weekending>
+    <Timesheet>	465970	</Timesheet>
+    <Hours>	7	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	101.5	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1037	</Id>
+    <Invoice>	1407	</Invoice>
+    <Weekending>	18-Dec-2016	</Weekending>
+    <Timesheet>	460416	</Timesheet>
+    <Hours>	7	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	101.5	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1038	</Id>
+    <Invoice>	1407	</Invoice>
+    <Weekending>	18-Dec-2016	</Weekending>
+    <Timesheet>	465971	</Timesheet>
+    <Hours>	6	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	87	</Cost>
+  </InvList>
+  <InvList>
+    <Id>	1039	</Id>
+    <Invoice>	1407	</Invoice>
+    <Weekending>	18-Dec-2016	</Weekending>
+    <Timesheet>	465972	</Timesheet>
+    <Hours>	13.5	</Hours>
+    <Rate>	14.5	</Rate>
+    <Cost>	195.75	</Cost>
+  </InvList>
+</InvLists>

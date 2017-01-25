@@ -1,0 +1,2559 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<WorkPeriods>
+  <WorkPeriod>
+    <Id>	20160901	</Id>
+    <Timesheet>	463609	</Timesheet>
+    <Date>	5-Sep-2016	</Date>
+    <AllocHours>	3	</AllocHours>
+    <TimeIn>	10:00	</TimeIn>
+    <TimeOut>	13:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160902	</Id>
+    <Timesheet>	463609	</Timesheet>
+    <Date>	5-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	18:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160903	</Id>
+    <Timesheet>	463805	</Timesheet>
+    <Date>	5-Sep-2016	</Date>
+    <AllocHours>	0.75	</AllocHours>
+    <TimeIn>	13:00	</TimeIn>
+    <TimeOut>	13:45	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160904	</Id>
+    <Timesheet>	463831	</Timesheet>
+    <Date>	5-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	20:55	</TimeIn>
+    <TimeOut>	21:55	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160905	</Id>
+    <Timesheet>	463609	</Timesheet>
+    <Date>	6-Sep-2016	</Date>
+    <AllocHours>	2.333333333	</AllocHours>
+    <TimeIn>	10:10	</TimeIn>
+    <TimeOut>	12:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160906	</Id>
+    <Timesheet>	463609	</Timesheet>
+    <Date>	6-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	17:30	</TimeIn>
+    <TimeOut>	18:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160907	</Id>
+    <Timesheet>	463805	</Timesheet>
+    <Date>	6-Sep-2016	</Date>
+    <AllocHours>	0.75	</AllocHours>
+    <TimeIn>	13:00	</TimeIn>
+    <TimeOut>	13:45	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160908	</Id>
+    <Timesheet>	463803	</Timesheet>
+    <Date>	6-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	20:00	</TimeIn>
+    <TimeOut>	21:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160909	</Id>
+    <Timesheet>	463609	</Timesheet>
+    <Date>	7-Sep-2016	</Date>
+    <AllocHours>	2	</AllocHours>
+    <TimeIn>	10:15	</TimeIn>
+    <TimeOut>	12:15	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160910	</Id>
+    <Timesheet>	463609	</Timesheet>
+    <Date>	7-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	18:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160911	</Id>
+    <Timesheet>	463805	</Timesheet>
+    <Date>	7-Sep-2016	</Date>
+    <AllocHours>	0.75	</AllocHours>
+    <TimeIn>	13:00	</TimeIn>
+    <TimeOut>	13:45	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160912	</Id>
+    <Timesheet>	463803	</Timesheet>
+    <Date>	7-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	20:00	</TimeIn>
+    <TimeOut>	21:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160913	</Id>
+    <Timesheet>	463609	</Timesheet>
+    <Date>	8-Sep-2016	</Date>
+    <AllocHours>	3	</AllocHours>
+    <TimeIn>	10:15	</TimeIn>
+    <TimeOut>	13:15	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160914	</Id>
+    <Timesheet>	463609	</Timesheet>
+    <Date>	8-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	17:15	</TimeIn>
+    <TimeOut>	18:15	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160915	</Id>
+    <Timesheet>	463805	</Timesheet>
+    <Date>	8-Sep-2016	</Date>
+    <AllocHours>	0.75	</AllocHours>
+    <TimeIn>	13:00	</TimeIn>
+    <TimeOut>	13:45	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160916	</Id>
+    <Timesheet>	463803	</Timesheet>
+    <Date>	8-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	20:00	</TimeIn>
+    <TimeOut>	21:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160917	</Id>
+    <Timesheet>	463609	</Timesheet>
+    <Date>	9-Sep-2016	</Date>
+    <AllocHours>	2	</AllocHours>
+    <TimeIn>	10:15	</TimeIn>
+    <TimeOut>	12:15	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160918	</Id>
+    <Timesheet>	463609	</Timesheet>
+    <Date>	9-Sep-2016	</Date>
+    <AllocHours>	0.75	</AllocHours>
+    <TimeIn>	13:15	</TimeIn>
+    <TimeOut>	14:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160919	</Id>
+    <Timesheet>	463609	</Timesheet>
+    <Date>	9-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	18:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160920	</Id>
+    <Timesheet>	463803	</Timesheet>
+    <Date>	9-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	20:00	</TimeIn>
+    <TimeOut>	21:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160921	</Id>
+    <Timesheet>	463609	</Timesheet>
+    <Date>	10-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	18:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160922	</Id>
+    <Timesheet>	463805	</Timesheet>
+    <Date>	10-Sep-2016	</Date>
+    <AllocHours>	3	</AllocHours>
+    <TimeIn>	16:00	</TimeIn>
+    <TimeOut>	17:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160923	</Id>
+    <Timesheet>	463803	</Timesheet>
+    <Date>	10-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	20:00	</TimeIn>
+    <TimeOut>	21:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160924	</Id>
+    <Timesheet>	463805	</Timesheet>
+    <Date>	11-Sep-2016	</Date>
+    <AllocHours>	3	</AllocHours>
+    <TimeIn>	16:00	</TimeIn>
+    <TimeOut>	17:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160925	</Id>
+    <Timesheet>	463805	</Timesheet>
+    <Date>	11-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	18:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160926	</Id>
+    <Timesheet>	463803	</Timesheet>
+    <Date>	11-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	20:00	</TimeIn>
+    <TimeOut>	21:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160927	</Id>
+    <Timesheet>	463808	</Timesheet>
+    <Date>	12-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	20:00	</TimeIn>
+    <TimeOut>	21:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160928	</Id>
+    <Timesheet>	458410	</Timesheet>
+    <Date>	12-Sep-2016	</Date>
+    <AllocHours>	3	</AllocHours>
+    <TimeIn>	9:30	</TimeIn>
+    <TimeOut>	12:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160929	</Id>
+    <Timesheet>	458410	</Timesheet>
+    <Date>	12-Sep-2016	</Date>
+    <AllocHours>	0.75	</AllocHours>
+    <TimeIn>	13:00	</TimeIn>
+    <TimeOut>	13:45	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160930	</Id>
+    <Timesheet>	463811	</Timesheet>
+    <Date>	12-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	16:10	</TimeIn>
+    <TimeOut>	17:10	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160931	</Id>
+    <Timesheet>	458409	</Timesheet>
+    <Date>	13-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	20:00	</TimeIn>
+    <TimeOut>	21:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160932	</Id>
+    <Timesheet>	458410	</Timesheet>
+    <Date>	13-Sep-2016	</Date>
+    <AllocHours>	2.75	</AllocHours>
+    <TimeIn>	10:15	</TimeIn>
+    <TimeOut>	13:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160933	</Id>
+    <Timesheet>	458410	</Timesheet>
+    <Date>	13-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	17:15	</TimeIn>
+    <TimeOut>	18:15	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160934	</Id>
+    <Timesheet>	458409	</Timesheet>
+    <Date>	14-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	20:00	</TimeIn>
+    <TimeOut>	21:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160935	</Id>
+    <Timesheet>	458410	</Timesheet>
+    <Date>	14-Sep-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	19:00	</TimeIn>
+    <TimeOut>	19:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160936	</Id>
+    <Timesheet>	458410	</Timesheet>
+    <Date>	14-Sep-2016	</Date>
+    <AllocHours>	2.25	</AllocHours>
+    <TimeIn>	10:15	</TimeIn>
+    <TimeOut>	12:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160937	</Id>
+    <Timesheet>	458410	</Timesheet>
+    <Date>	14-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	17:20	</TimeIn>
+    <TimeOut>	18:20	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160938	</Id>
+    <Timesheet>	458412	</Timesheet>
+    <Date>	14-Sep-2016	</Date>
+    <AllocHours>	0.75	</AllocHours>
+    <TimeIn>	13:00	</TimeIn>
+    <TimeOut>	13:45	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160939	</Id>
+    <Timesheet>	458409	</Timesheet>
+    <Date>	15-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	20:00	</TimeIn>
+    <TimeOut>	21:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160940	</Id>
+    <Timesheet>	458410	</Timesheet>
+    <Date>	15-Sep-2016	</Date>
+    <AllocHours>	2.5	</AllocHours>
+    <TimeIn>	10:30	</TimeIn>
+    <TimeOut>	13:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160941	</Id>
+    <Timesheet>	458410	</Timesheet>
+    <Date>	15-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	17:30	</TimeIn>
+    <TimeOut>	18:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160942	</Id>
+    <Timesheet>	458412	</Timesheet>
+    <Date>	15-Sep-2016	</Date>
+    <AllocHours>	0.75	</AllocHours>
+    <TimeIn>	13:00	</TimeIn>
+    <TimeOut>	13:45	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160943	</Id>
+    <Timesheet>	458409	</Timesheet>
+    <Date>	16-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	20:00	</TimeIn>
+    <TimeOut>	21:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160944	</Id>
+    <Timesheet>	458410	</Timesheet>
+    <Date>	16-Sep-2016	</Date>
+    <AllocHours>	2.25	</AllocHours>
+    <TimeIn>	10:15	</TimeIn>
+    <TimeOut>	12:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160945	</Id>
+    <Timesheet>	458410	</Timesheet>
+    <Date>	16-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	17:15	</TimeIn>
+    <TimeOut>	18:15	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160946	</Id>
+    <Timesheet>	458412	</Timesheet>
+    <Date>	16-Sep-2016	</Date>
+    <AllocHours>	0.75	</AllocHours>
+    <TimeIn>	13:00	</TimeIn>
+    <TimeOut>	13:45	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160947	</Id>
+    <Timesheet>	458410	</Timesheet>
+    <Date>	17-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	17:15	</TimeIn>
+    <TimeOut>	18:15	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160948	</Id>
+    <Timesheet>	458412	</Timesheet>
+    <Date>	17-Sep-2016	</Date>
+    <AllocHours>	3	</AllocHours>
+    <TimeIn>	9:00	</TimeIn>
+    <TimeOut>	12:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160949	</Id>
+    <Timesheet>	458412	</Timesheet>
+    <Date>	17-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	15:00	</TimeIn>
+    <TimeOut>	16:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160950	</Id>
+    <Timesheet>	458412	</Timesheet>
+    <Date>	18-Sep-2016	</Date>
+    <AllocHours>	3	</AllocHours>
+    <TimeIn>	9:00	</TimeIn>
+    <TimeOut>	12:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160951	</Id>
+    <Timesheet>	458412	</Timesheet>
+    <Date>	18-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	18:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160952	</Id>
+    <Timesheet>	458404	</Timesheet>
+    <Date>	19-Sep-2016	</Date>
+    <AllocHours>	2.75	</AllocHours>
+    <TimeIn>	10:15	</TimeIn>
+    <TimeOut>	13:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160953	</Id>
+    <Timesheet>	458404	</Timesheet>
+    <Date>	19-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	17:15	</TimeIn>
+    <TimeOut>	18:15	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160954	</Id>
+    <Timesheet>	458404	</Timesheet>
+    <Date>	19-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	20:00	</TimeIn>
+    <TimeOut>	21:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160955	</Id>
+    <Timesheet>	458411	</Timesheet>
+    <Date>	19-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	20:00	</TimeIn>
+    <TimeOut>	21:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160956	</Id>
+    <Timesheet>	458405	</Timesheet>
+    <Date>	19-Sep-2016	</Date>
+    <AllocHours>	1.75	</AllocHours>
+    <TimeIn>	13:00	</TimeIn>
+    <TimeOut>	14:45	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160957	</Id>
+    <Timesheet>	458404	</Timesheet>
+    <Date>	20-Sep-2016	</Date>
+    <AllocHours>	2.166666667	</AllocHours>
+    <TimeIn>	10:20	</TimeIn>
+    <TimeOut>	12:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160958	</Id>
+    <Timesheet>	458404	</Timesheet>
+    <Date>	20-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	17:15	</TimeIn>
+    <TimeOut>	18:15	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160959	</Id>
+    <Timesheet>	458404	</Timesheet>
+    <Date>	20-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	20:00	</TimeIn>
+    <TimeOut>	21:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160960	</Id>
+    <Timesheet>	458405	</Timesheet>
+    <Date>	20-Sep-2016	</Date>
+    <AllocHours>	0.75	</AllocHours>
+    <TimeIn>	13:00	</TimeIn>
+    <TimeOut>	13:45	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160961	</Id>
+    <Timesheet>	458404	</Timesheet>
+    <Date>	21-Sep-2016	</Date>
+    <AllocHours>	2.25	</AllocHours>
+    <TimeIn>	10:15	</TimeIn>
+    <TimeOut>	12:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160962	</Id>
+    <Timesheet>	458404	</Timesheet>
+    <Date>	21-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	18:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160963	</Id>
+    <Timesheet>	458404	</Timesheet>
+    <Date>	21-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	20:00	</TimeIn>
+    <TimeOut>	21:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160964	</Id>
+    <Timesheet>	458405	</Timesheet>
+    <Date>	21-Sep-2016	</Date>
+    <AllocHours>	0.75	</AllocHours>
+    <TimeIn>	13:00	</TimeIn>
+    <TimeOut>	13:45	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160965	</Id>
+    <Timesheet>	458404	</Timesheet>
+    <Date>	22-Sep2016	</Date>
+    <AllocHours>	2.25	</AllocHours>
+    <TimeIn>	10:15	</TimeIn>
+    <TimeOut>	12:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160966	</Id>
+    <Timesheet>	458404	</Timesheet>
+    <Date>	22-Sep2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	18:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160967	</Id>
+    <Timesheet>	458404	</Timesheet>
+    <Date>	22-Sep2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	20:00	</TimeIn>
+    <TimeOut>	21:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160968	</Id>
+    <Timesheet>	458405	</Timesheet>
+    <Date>	22-Sep-2016	</Date>
+    <AllocHours>	0.75	</AllocHours>
+    <TimeIn>	13:00	</TimeIn>
+    <TimeOut>	13:45	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160969	</Id>
+    <Timesheet>	458404	</Timesheet>
+    <Date>	23-Sep-2016	</Date>
+    <AllocHours>	2.5	</AllocHours>
+    <TimeIn>	10:15	</TimeIn>
+    <TimeOut>	12:45	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160970	</Id>
+    <Timesheet>	458404	</Timesheet>
+    <Date>	23-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	18:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160971	</Id>
+    <Timesheet>	458404	</Timesheet>
+    <Date>	23-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	20:00	</TimeIn>
+    <TimeOut>	21:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160972	</Id>
+    <Timesheet>	458405	</Timesheet>
+    <Date>	23-Sep-2016	</Date>
+    <AllocHours>	0.75	</AllocHours>
+    <TimeIn>	13:00	</TimeIn>
+    <TimeOut>	13:45	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160973	</Id>
+    <Timesheet>	458404	</Timesheet>
+    <Date>	24-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	17:15	</TimeIn>
+    <TimeOut>	18:15	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160974	</Id>
+    <Timesheet>	458404	</Timesheet>
+    <Date>	24-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	20:00	</TimeIn>
+    <TimeOut>	21:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160975	</Id>
+    <Timesheet>	458405	</Timesheet>
+    <Date>	24-Sep-2016	</Date>
+    <AllocHours>	3	</AllocHours>
+    <TimeIn>	9:00	</TimeIn>
+    <TimeOut>	12:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160976	</Id>
+    <Timesheet>	458405	</Timesheet>
+    <Date>	25-Sep-2016	</Date>
+    <AllocHours>	3	</AllocHours>
+    <TimeIn>	9:00	</TimeIn>
+    <TimeOut>	12:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160977	</Id>
+    <Timesheet>	458405	</Timesheet>
+    <Date>	25-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	18:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160978	</Id>
+    <Timesheet>	458405	</Timesheet>
+    <Date>	25-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	20:00	</TimeIn>
+    <TimeOut>	21:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160979	</Id>
+    <Timesheet>	463838	</Timesheet>
+    <Date>	26-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	8:00	</TimeIn>
+    <TimeOut>	9:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160980	</Id>
+    <Timesheet>	463838	</Timesheet>
+    <Date>	26-Sep-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	12:30	</TimeIn>
+    <TimeOut>	13:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160981	</Id>
+    <Timesheet>	463838	</Timesheet>
+    <Date>	26-Sep-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160982	</Id>
+    <Timesheet>	463838	</Timesheet>
+    <Date>	26-Sep-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160983	</Id>
+    <Timesheet>	463838	</Timesheet>
+    <Date>	27-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	8:00	</TimeIn>
+    <TimeOut>	9:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160984	</Id>
+    <Timesheet>	463838	</Timesheet>
+    <Date>	27-Sep-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	12:30	</TimeIn>
+    <TimeOut>	13:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160985	</Id>
+    <Timesheet>	463838	</Timesheet>
+    <Date>	27-Sep-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160986	</Id>
+    <Timesheet>	463838	</Timesheet>
+    <Date>	27-Sep-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20160987	</Id>
+    <Timesheet>	463838	</Timesheet>
+    <Date>	28-Sep-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	8:00	</TimeIn>
+    <TimeOut>	9:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161001	</Id>
+    <Timesheet>	468435	</Timesheet>
+    <Date>	10-Oct-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161002	</Id>
+    <Timesheet>	468454	</Timesheet>
+    <Date>	10-Oct-2016	</Date>
+    <AllocHours>	1.5	</AllocHours>
+    <TimeIn>	14:00	</TimeIn>
+    <TimeOut>	15:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161003	</Id>
+    <Timesheet>	468435	</Timesheet>
+    <Date>	11-Oct-2016	</Date>
+    <AllocHours>	2.5	</AllocHours>
+    <TimeIn>	10:30	</TimeIn>
+    <TimeOut>	12:20	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161004	</Id>
+    <Timesheet>	468435	</Timesheet>
+    <Date>	11-Oct-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161005	</Id>
+    <Timesheet>	468454	</Timesheet>
+    <Date>	11-Oct-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	16:00	</TimeIn>
+    <TimeOut>	16:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161006	</Id>
+    <Timesheet>	468435	</Timesheet>
+    <Date>	12-Oct-2016	</Date>
+    <AllocHours>	2.5	</AllocHours>
+    <TimeIn>	10:30	</TimeIn>
+    <TimeOut>	12:20	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161007	</Id>
+    <Timesheet>	468435	</Timesheet>
+    <Date>	12-Oct-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161008	</Id>
+    <Timesheet>	468454	</Timesheet>
+    <Date>	12-Oct-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	16:00	</TimeIn>
+    <TimeOut>	16:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161009	</Id>
+    <Timesheet>	468435	</Timesheet>
+    <Date>	13-Oct-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161010	</Id>
+    <Timesheet>	468435	</Timesheet>
+    <Date>	13-Oct-2016	</Date>
+    <AllocHours>	2.5	</AllocHours>
+    <TimeIn>	10:30	</TimeIn>
+    <TimeOut>	12:20	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161011	</Id>
+    <Timesheet>	468454	</Timesheet>
+    <Date>	13-Oct-2016	</Date>
+    <AllocHours>	2.5	</AllocHours>
+    <TimeIn>	10:00	</TimeIn>
+    <TimeOut>	12:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161012	</Id>
+    <Timesheet>	468454	</Timesheet>
+    <Date>	13-Oct-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	16:00	</TimeIn>
+    <TimeOut>	16:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161013	</Id>
+    <Timesheet>	458862	</Timesheet>
+    <Date>	14-Oct-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	15:30	</TimeIn>
+    <TimeOut>	16:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161014	</Id>
+    <Timesheet>	468454	</Timesheet>
+    <Date>	14-Oct-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	16:00	</TimeIn>
+    <TimeOut>	16:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161015	</Id>
+    <Timesheet>	458862	</Timesheet>
+    <Date>	15-Oct-2016	</Date>
+    <AllocHours>	2.5	</AllocHours>
+    <TimeIn>	10:00	</TimeIn>
+    <TimeOut>	12:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161016	</Id>
+    <Timesheet>	458550	</Timesheet>
+    <Date>	18-Oct-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:05	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161017	</Id>
+    <Timesheet>	457901	</Timesheet>
+    <Date>	18-Oct-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	13:00	</TimeIn>
+    <TimeOut>	14:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161018	</Id>
+    <Timesheet>	458550	</Timesheet>
+    <Date>	19-Oct-2016	</Date>
+    <AllocHours>	2.5	</AllocHours>
+    <TimeIn>	10:15	</TimeIn>
+    <TimeOut>	12:45	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161019	</Id>
+    <Timesheet>	458550	</Timesheet>
+    <Date>	19-Oct-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:18	</TimeIn>
+    <TimeOut>	20:24	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161020	</Id>
+    <Timesheet>	457901	</Timesheet>
+    <Date>	19-Oct-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	16:00	</TimeIn>
+    <TimeOut>	16:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161021	</Id>
+    <Timesheet>	458550	</Timesheet>
+    <Date>	20-Oct-2016	</Date>
+    <AllocHours>	2.5	</AllocHours>
+    <TimeIn>	10:15	</TimeIn>
+    <TimeOut>	12:45	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161022	</Id>
+    <Timesheet>	458550	</Timesheet>
+    <Date>	20-Oct-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:25	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161023	</Id>
+    <Timesheet>	457901	</Timesheet>
+    <Date>	20-Oct-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	16:00	</TimeIn>
+    <TimeOut>	16:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161024	</Id>
+    <Timesheet>	458550	</Timesheet>
+    <Date>	21-Oct-2016	</Date>
+    <AllocHours>	2.5	</AllocHours>
+    <TimeIn>	10:30	</TimeIn>
+    <TimeOut>	13:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161025	</Id>
+    <Timesheet>	458550	</Timesheet>
+    <Date>	21-Oct-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161026	</Id>
+    <Timesheet>	457901	</Timesheet>
+    <Date>	21-Oct-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	16:00	</TimeIn>
+    <TimeOut>	16:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161027	</Id>
+    <Timesheet>	458550	</Timesheet>
+    <Date>	22-Oct-2016	</Date>
+    <AllocHours>	2.5	</AllocHours>
+    <TimeIn>	10:10	</TimeIn>
+    <TimeOut>	12:40	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161028	</Id>
+    <Timesheet>	458550	</Timesheet>
+    <Date>	22-Oct-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161029	</Id>
+    <Timesheet>	458550	</Timesheet>
+    <Date>	22-Oct-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161030	</Id>
+    <Timesheet>	458550	</Timesheet>
+    <Date>	23-Oct-2016	</Date>
+    <AllocHours>	2.5	</AllocHours>
+    <TimeIn>	10:45	</TimeIn>
+    <TimeOut>	13:15	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161031	</Id>
+    <Timesheet>	458550	</Timesheet>
+    <Date>	23-Oct-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	16:30	</TimeIn>
+    <TimeOut>	17:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161032	</Id>
+    <Timesheet>	458550	</Timesheet>
+    <Date>	23-Oct-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161033	</Id>
+    <Timesheet>	457966	</Timesheet>
+    <Date>	24-Oct-2016	</Date>
+    <AllocHours>	2.5	</AllocHours>
+    <TimeIn>	9:45	</TimeIn>
+    <TimeOut>	12:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161034	</Id>
+    <Timesheet>	457966	</Timesheet>
+    <Date>	24-Oct-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161035	</Id>
+    <Timesheet>	464364	</Timesheet>
+    <Date>	24-Oct-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	16:00	</TimeIn>
+    <TimeOut>	16:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161036	</Id>
+    <Timesheet>	457966	</Timesheet>
+    <Date>	25-Oct-2016	</Date>
+    <AllocHours>	2.5	</AllocHours>
+    <TimeIn>	10:45	</TimeIn>
+    <TimeOut>	13:15	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161037	</Id>
+    <Timesheet>	457966	</Timesheet>
+    <Date>	25-Oct-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161038	</Id>
+    <Timesheet>	464364	</Timesheet>
+    <Date>	25-Oct-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	16:00	</TimeIn>
+    <TimeOut>	16:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161039	</Id>
+    <Timesheet>	457966	</Timesheet>
+    <Date>	26-Oct-2016	</Date>
+    <AllocHours>	2.5	</AllocHours>
+    <TimeIn>	10:30	</TimeIn>
+    <TimeOut>	13:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161040	</Id>
+    <Timesheet>	457966	</Timesheet>
+    <Date>	26-Oct-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161041	</Id>
+    <Timesheet>	464364	</Timesheet>
+    <Date>	26-Oct-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	16:00	</TimeIn>
+    <TimeOut>	16:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161042	</Id>
+    <Timesheet>	457966	</Timesheet>
+    <Date>	27-Oct-2016	</Date>
+    <AllocHours>	2.5	</AllocHours>
+    <TimeIn>	10:30	</TimeIn>
+    <TimeOut>	13:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161043	</Id>
+    <Timesheet>	457966	</Timesheet>
+    <Date>	27-Oct-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161044	</Id>
+    <Timesheet>	464364	</Timesheet>
+    <Date>	27-Oct-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	16:00	</TimeIn>
+    <TimeOut>	16:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161045	</Id>
+    <Timesheet>	457966	</Timesheet>
+    <Date>	28-Oct-2016	</Date>
+    <AllocHours>	2.5	</AllocHours>
+    <TimeIn>	10:30	</TimeIn>
+    <TimeOut>	13:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161046	</Id>
+    <Timesheet>	457966	</Timesheet>
+    <Date>	28-Oct-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161047	</Id>
+    <Timesheet>	464364	</Timesheet>
+    <Date>	28-Oct-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	16:00	</TimeIn>
+    <TimeOut>	16:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161048	</Id>
+    <Timesheet>	439214	</Timesheet>
+    <Date>	29-Oct-2016	</Date>
+    <AllocHours>	2.5	</AllocHours>
+    <TimeIn>	10:00	</TimeIn>
+    <TimeOut>	12:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161049	</Id>
+    <Timesheet>	439214	</Timesheet>
+    <Date>	29-Oct-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	11:00	</TimeIn>
+    <TimeOut>	11:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161050	</Id>
+    <Timesheet>	439214	</Timesheet>
+    <Date>	30-Oct-2016	</Date>
+    <AllocHours>	2.5	</AllocHours>
+    <TimeIn>	10:00	</TimeIn>
+    <TimeOut>	12:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161051	</Id>
+    <Timesheet>	439214	</Timesheet>
+    <Date>	30-Oct-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	16:00	</TimeIn>
+    <TimeOut>	16:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161052	</Id>
+    <Timesheet>	439214	</Timesheet>
+    <Date>	30-Oct-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	7:30	</TimeIn>
+    <TimeOut>	8:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161053	</Id>
+    <Timesheet>	457186	</Timesheet>
+    <Date>	31-Oct-2016	</Date>
+    <AllocHours>	2.5	</AllocHours>
+    <TimeIn>	10:15	</TimeIn>
+    <TimeOut>	12:45	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161054	</Id>
+    <Timesheet>	457186	</Timesheet>
+    <Date>	31-Oct-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	16:30	</TimeIn>
+    <TimeOut>	17:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161055	</Id>
+    <Timesheet>	457186	</Timesheet>
+    <Date>	31-Oct-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161101	</Id>
+    <Timesheet>	457186	</Timesheet>
+    <Date>	1-Nov-2016	</Date>
+    <AllocHours>	2.5	</AllocHours>
+    <TimeIn>	10:30	</TimeIn>
+    <TimeOut>	13:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161102	</Id>
+    <Timesheet>	457186	</Timesheet>
+    <Date>	1-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	16:30	</TimeIn>
+    <TimeOut>	17:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161103	</Id>
+    <Timesheet>	457186	</Timesheet>
+    <Date>	1-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161104	</Id>
+    <Timesheet>	457186	</Timesheet>
+    <Date>	2-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161105	</Id>
+    <Timesheet>	457186	</Timesheet>
+    <Date>	2-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161106	</Id>
+    <Timesheet>	457186	</Timesheet>
+    <Date>	3-Nov-2016	</Date>
+    <AllocHours>	2.5	</AllocHours>
+    <TimeIn>	10:45	</TimeIn>
+    <TimeOut>	13:15	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161107	</Id>
+    <Timesheet>	457186	</Timesheet>
+    <Date>	3-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161108	</Id>
+    <Timesheet>	457186	</Timesheet>
+    <Date>	3-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161109	</Id>
+    <Timesheet>	457186	</Timesheet>
+    <Date>	4-Nov-2016	</Date>
+    <AllocHours>	2.5	</AllocHours>
+    <TimeIn>	9:30	</TimeIn>
+    <TimeOut>	12:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161110	</Id>
+    <Timesheet>	457186	</Timesheet>
+    <Date>	4-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161111	</Id>
+    <Timesheet>	457186	</Timesheet>
+    <Date>	4-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161112	</Id>
+    <Timesheet>	369899	</Timesheet>
+    <Date>	5-Nov-2016	</Date>
+    <AllocHours>	1.5	</AllocHours>
+    <TimeIn>	9:00	</TimeIn>
+    <TimeOut>	10:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161113	</Id>
+    <Timesheet>	369899	</Timesheet>
+    <Date>	5-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	12:00	</TimeIn>
+    <TimeOut>	12:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161114	</Id>
+    <Timesheet>	369899	</Timesheet>
+    <Date>	5-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	16:00	</TimeIn>
+    <TimeOut>	16:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161115	</Id>
+    <Timesheet>	457186	</Timesheet>
+    <Date>	5-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161116	</Id>
+    <Timesheet>	369899	</Timesheet>
+    <Date>	6-Nov-2016	</Date>
+    <AllocHours>	1.5	</AllocHours>
+    <TimeIn>	9:00	</TimeIn>
+    <TimeOut>	10:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161117	</Id>
+    <Timesheet>	369899	</Timesheet>
+    <Date>	6-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	12:00	</TimeIn>
+    <TimeOut>	12:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161118	</Id>
+    <Timesheet>	369899	</Timesheet>
+    <Date>	6-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	16:00	</TimeIn>
+    <TimeOut>	16:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161119	</Id>
+    <Timesheet>	369899	</Timesheet>
+    <Date>	6-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	7:15	</TimeIn>
+    <TimeOut>	8:15	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161120	</Id>
+    <Timesheet>	457088	</Timesheet>
+    <Date>	7-Nov-2016	</Date>
+    <AllocHours>	1.5	</AllocHours>
+    <TimeIn>	10:00	</TimeIn>
+    <TimeOut>	11:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161121	</Id>
+    <Timesheet>	457088	</Timesheet>
+    <Date>	7-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	12:00	</TimeIn>
+    <TimeOut>	13:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161122	</Id>
+    <Timesheet>	457088	</Timesheet>
+    <Date>	7-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161123	</Id>
+    <Timesheet>	457088	</Timesheet>
+    <Date>	7-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161124	</Id>
+    <Timesheet>	457088	</Timesheet>
+    <Date>	8-Nov-2016	</Date>
+    <AllocHours>	1.5	</AllocHours>
+    <TimeIn>	10:45	</TimeIn>
+    <TimeOut>	12:15	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161125	</Id>
+    <Timesheet>	457088	</Timesheet>
+    <Date>	8-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	12:00	</TimeIn>
+    <TimeOut>	13:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161126	</Id>
+    <Timesheet>	457088	</Timesheet>
+    <Date>	8-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161127	</Id>
+    <Timesheet>	457088	</Timesheet>
+    <Date>	8-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161128	</Id>
+    <Timesheet>	457088	</Timesheet>
+    <Date>	9-Nov-2016	</Date>
+    <AllocHours>	1.5	</AllocHours>
+    <TimeIn>	9:45	</TimeIn>
+    <TimeOut>	11:15	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161129	</Id>
+    <Timesheet>	457088	</Timesheet>
+    <Date>	9-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	12:00	</TimeIn>
+    <TimeOut>	13:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161130	</Id>
+    <Timesheet>	457088	</Timesheet>
+    <Date>	9-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:50	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161131	</Id>
+    <Timesheet>	457088	</Timesheet>
+    <Date>	9-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161132	</Id>
+    <Timesheet>	457088	</Timesheet>
+    <Date>	10-Nov-2016	</Date>
+    <AllocHours>	1.5	</AllocHours>
+    <TimeIn>	10:40	</TimeIn>
+    <TimeOut>	12:10	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161133	</Id>
+    <Timesheet>	457088	</Timesheet>
+    <Date>	10-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	12:10	</TimeIn>
+    <TimeOut>	13:10	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161134	</Id>
+    <Timesheet>	457088	</Timesheet>
+    <Date>	10-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161135	</Id>
+    <Timesheet>	457088	</Timesheet>
+    <Date>	10-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161136	</Id>
+    <Timesheet>	465734	</Timesheet>
+    <Date>	10-Nov-2016	</Date>
+    <AllocHours>	1.5	</AllocHours>
+    <TimeIn>	9:30	</TimeIn>
+    <TimeOut>	11:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161137	</Id>
+    <Timesheet>	465734	</Timesheet>
+    <Date>	10-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	12:00	</TimeIn>
+    <TimeOut>	12:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161138	</Id>
+    <Timesheet>	465970	</Timesheet>
+    <Date>	10-Nov-2016	</Date>
+    <AllocHours>	1.5	</AllocHours>
+    <TimeIn>	10:10	</TimeIn>
+    <TimeOut>	11:40	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161139	</Id>
+    <Timesheet>	465970	</Timesheet>
+    <Date>	10-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	12:00	</TimeIn>
+    <TimeOut>	13:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161140	</Id>
+    <Timesheet>	457088	</Timesheet>
+    <Date>	11-Nov-2016	</Date>
+    <AllocHours>	1.5	</AllocHours>
+    <TimeIn>	9:45	</TimeIn>
+    <TimeOut>	11:15	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161141	</Id>
+    <Timesheet>	457088	</Timesheet>
+    <Date>	11-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	13:45	</TimeIn>
+    <TimeOut>	14:45	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161142	</Id>
+    <Timesheet>	457088	</Timesheet>
+    <Date>	11-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161143	</Id>
+    <Timesheet>	457088	</Timesheet>
+    <Date>	11-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161144	</Id>
+    <Timesheet>	465734	</Timesheet>
+    <Date>	11-Nov-2016	</Date>
+    <AllocHours>	1.5	</AllocHours>
+    <TimeIn>	10:00	</TimeIn>
+    <TimeOut>	11:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161145	</Id>
+    <Timesheet>	465734	</Timesheet>
+    <Date>	11-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	12:00	</TimeIn>
+    <TimeOut>	12:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161146	</Id>
+    <Timesheet>	465734	</Timesheet>
+    <Date>	11-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161147	</Id>
+    <Timesheet>	465734	</Timesheet>
+    <Date>	11-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161148	</Id>
+    <Timesheet>	465970	</Timesheet>
+    <Date>	11-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	16:30	</TimeIn>
+    <TimeOut>	17:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161149	</Id>
+    <Timesheet>	465970	</Timesheet>
+    <Date>	11-Nov-2016	</Date>
+    <AllocHours>	1.5	</AllocHours>
+    <TimeIn>	9:30	</TimeIn>
+    <TimeOut>	11:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161150	</Id>
+    <Timesheet>	465970	</Timesheet>
+    <Date>	11-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	12:30	</TimeIn>
+    <TimeOut>	13:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161151	</Id>
+    <Timesheet>	465970	</Timesheet>
+    <Date>	11-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161152	</Id>
+    <Timesheet>	465970	</Timesheet>
+    <Date>	11-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161153	</Id>
+    <Timesheet>	457185	</Timesheet>
+    <Date>	12-Nov-2016	</Date>
+    <AllocHours>	1.5	</AllocHours>
+    <TimeIn>	9:30	</TimeIn>
+    <TimeOut>	11:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161154	</Id>
+    <Timesheet>	457185	</Timesheet>
+    <Date>	12-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	12:00	</TimeIn>
+    <TimeOut>	12:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161155	</Id>
+    <Timesheet>	457185	</Timesheet>
+    <Date>	12-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	16:00	</TimeIn>
+    <TimeOut>	16:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161156	</Id>
+    <Timesheet>	457185	</Timesheet>
+    <Date>	13-Nov-2016	</Date>
+    <AllocHours>	1.5	</AllocHours>
+    <TimeIn>	9:30	</TimeIn>
+    <TimeOut>	11:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161157	</Id>
+    <Timesheet>	457185	</Timesheet>
+    <Date>	13-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	12:00	</TimeIn>
+    <TimeOut>	12:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161158	</Id>
+    <Timesheet>	457185	</Timesheet>
+    <Date>	13-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	16:00	</TimeIn>
+    <TimeOut>	16:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161159	</Id>
+    <Timesheet>	457185	</Timesheet>
+    <Date>	13-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161160	</Id>
+    <Timesheet>	457604	</Timesheet>
+    <Date>	14-Nov-2016	</Date>
+    <AllocHours>	1.5	</AllocHours>
+    <TimeIn>	9:00	</TimeIn>
+    <TimeOut>	10:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161161	</Id>
+    <Timesheet>	457543	</Timesheet>
+    <Date>	14-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	12:00	</TimeIn>
+    <TimeOut>	13:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161162	</Id>
+    <Timesheet>	457543	</Timesheet>
+    <Date>	14-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161163	</Id>
+    <Timesheet>	457543	</Timesheet>
+    <Date>	14-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161164	</Id>
+    <Timesheet>	457604	</Timesheet>
+    <Date>	15-Nov-2016	</Date>
+    <AllocHours>	1.5	</AllocHours>
+    <TimeIn>	9:00	</TimeIn>
+    <TimeOut>	10:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161165	</Id>
+    <Timesheet>	457543	</Timesheet>
+    <Date>	15-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	12:00	</TimeIn>
+    <TimeOut>	13:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161166	</Id>
+    <Timesheet>	457543	</Timesheet>
+    <Date>	15-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161167	</Id>
+    <Timesheet>	457543	</Timesheet>
+    <Date>	15-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161168	</Id>
+    <Timesheet>	457543	</Timesheet>
+    <Date>	16-Nov-2016	</Date>
+    <AllocHours>	2.5	</AllocHours>
+    <TimeIn>	10:45	</TimeIn>
+    <TimeOut>	13:15	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161169	</Id>
+    <Timesheet>	457543	</Timesheet>
+    <Date>	16-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161170	</Id>
+    <Timesheet>	457543	</Timesheet>
+    <Date>	16-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161171	</Id>
+    <Timesheet>	457543	</Timesheet>
+    <Date>	17-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	12:00	</TimeIn>
+    <TimeOut>	13:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161172	</Id>
+    <Timesheet>	457543	</Timesheet>
+    <Date>	17-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161173	</Id>
+    <Timesheet>	457543	</Timesheet>
+    <Date>	17-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161174	</Id>
+    <Timesheet>	457543	</Timesheet>
+    <Date>	18-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	13:45	</TimeIn>
+    <TimeOut>	14:45	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161175	</Id>
+    <Timesheet>	457543	</Timesheet>
+    <Date>	18-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161176	</Id>
+    <Timesheet>	457543	</Timesheet>
+    <Date>	18-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161177	</Id>
+    <Timesheet>	463876	</Timesheet>
+    <Date>	18-Nov-2016	</Date>
+    <AllocHours>	1.5	</AllocHours>
+    <TimeIn>	8:00	</TimeIn>
+    <TimeOut>	9:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161178	</Id>
+    <Timesheet>	457543	</Timesheet>
+    <Date>	19-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161179	</Id>
+    <Timesheet>	457543	</Timesheet>
+    <Date>	19-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161180	</Id>
+    <Timesheet>	463876	</Timesheet>
+    <Date>	19-Nov-2016	</Date>
+    <AllocHours>	1.5	</AllocHours>
+    <TimeIn>	8:00	</TimeIn>
+    <TimeOut>	9:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161181	</Id>
+    <Timesheet>	465328	</Timesheet>
+    <Date>	21-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	12:00	</TimeIn>
+    <TimeOut>	13:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161182	</Id>
+    <Timesheet>	465328	</Timesheet>
+    <Date>	21-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161183	</Id>
+    <Timesheet>	465328	</Timesheet>
+    <Date>	21-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161184	</Id>
+    <Timesheet>	463741	</Timesheet>
+    <Date>	21-Nov-2016	</Date>
+    <AllocHours>	1.5	</AllocHours>
+    <TimeIn>	8:00	</TimeIn>
+    <TimeOut>	9:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161185	</Id>
+    <Timesheet>	463741	</Timesheet>
+    <Date>	21-Nov-2016	</Date>
+    <AllocHours>	1.5	</AllocHours>
+    <TimeIn>	8:00	</TimeIn>
+    <TimeOut>	9:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161186	</Id>
+    <Timesheet>	463741	</Timesheet>
+    <Date>	21-Nov-2016	</Date>
+    <AllocHours>	2	</AllocHours>
+    <TimeIn>	8:00	</TimeIn>
+    <TimeOut>	10:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161187	</Id>
+    <Timesheet>	465328	</Timesheet>
+    <Date>	22-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	12:00	</TimeIn>
+    <TimeOut>	13:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161188	</Id>
+    <Timesheet>	465328	</Timesheet>
+    <Date>	22-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161189	</Id>
+    <Timesheet>	465328	</Timesheet>
+    <Date>	22-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161190	</Id>
+    <Timesheet>	465328	</Timesheet>
+    <Date>	23-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	12:00	</TimeIn>
+    <TimeOut>	13:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161191	</Id>
+    <Timesheet>	465737	</Timesheet>
+    <Date>	30-Nov-2016	</Date>
+    <AllocHours>	0.67	</AllocHours>
+    <TimeIn>	14:00	</TimeIn>
+    <TimeOut>	14:40	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161192	</Id>
+    <Timesheet>	465737	</Timesheet>
+    <Date>	30-Nov-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:30	</TimeIn>
+    <TimeOut>	18:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161193	</Id>
+    <Timesheet>	465737	</Timesheet>
+    <Date>	30-Nov-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161201	</Id>
+    <Timesheet>	458920	</Timesheet>
+    <Date>	01-Dec-2016	</Date>
+    <AllocHours>	2	</AllocHours>
+    <TimeIn>	8:00	</TimeIn>
+    <TimeOut>	10:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161202	</Id>
+    <Timesheet>	465737	</Timesheet>
+    <Date>	1-Dec-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	12:30	</TimeIn>
+    <TimeOut>	13:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161203	</Id>
+    <Timesheet>	465737	</Timesheet>
+    <Date>	1-Dec-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161204	</Id>
+    <Timesheet>	465737	</Timesheet>
+    <Date>	1-Dec-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161205	</Id>
+    <Timesheet>	458920	</Timesheet>
+    <Date>	02-Dec-2016	</Date>
+    <AllocHours>	1.5	</AllocHours>
+    <TimeIn>	8:00	</TimeIn>
+    <TimeOut>	9:45	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161206	</Id>
+    <Timesheet>	465737	</Timesheet>
+    <Date>	2-Dec-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	14:00	</TimeIn>
+    <TimeOut>	15:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161207	</Id>
+    <Timesheet>	465737	</Timesheet>
+    <Date>	2-Dec-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161208	</Id>
+    <Timesheet>	465737	</Timesheet>
+    <Date>	2-Dec-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161209	</Id>
+    <Timesheet>	465737	</Timesheet>
+    <Date>	3-Dec-2016	</Date>
+    <AllocHours>	1.5	</AllocHours>
+    <TimeIn>	8:00	</TimeIn>
+    <TimeOut>	9:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161210	</Id>
+    <Timesheet>	465737	</Timesheet>
+    <Date>	3-Dec-2016	</Date>
+    <AllocHours>	9	</AllocHours>
+    <TimeIn>	12:00	</TimeIn>
+    <TimeOut>	21:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161211	</Id>
+    <Timesheet>	465974	</Timesheet>
+    <Date>	7-Dec-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161212	</Id>
+    <Timesheet>	465974	</Timesheet>
+    <Date>	7-Dec-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161213	</Id>
+    <Timesheet>	465974	</Timesheet>
+    <Date>	8-Dec-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	12:00	</TimeIn>
+    <TimeOut>	13:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161214	</Id>
+    <Timesheet>	465974	</Timesheet>
+    <Date>	8-Dec-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161215	</Id>
+    <Timesheet>	465974	</Timesheet>
+    <Date>	8-Dec-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161216	</Id>
+    <Timesheet>	460414	</Timesheet>
+    <Date>	8-Dec-2016	</Date>
+    <AllocHours>	1.5	</AllocHours>
+    <TimeIn>	8:00	</TimeIn>
+    <TimeOut>	9:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161217	</Id>
+    <Timesheet>	465974	</Timesheet>
+    <Date>	9-Dec-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	13:45	</TimeIn>
+    <TimeOut>	14:45	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161218	</Id>
+    <Timesheet>	465974	</Timesheet>
+    <Date>	9-Dec-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161219	</Id>
+    <Timesheet>	465974	</Timesheet>
+    <Date>	9-Dec-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161220	</Id>
+    <Timesheet>	460414	</Timesheet>
+    <Date>	9-Dec-2016	</Date>
+    <AllocHours>	1.5	</AllocHours>
+    <TimeIn>	8:00	</TimeIn>
+    <TimeOut>	9:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161221	</Id>
+    <Timesheet>	465974	</Timesheet>
+    <Date>	10-Dec-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161222	</Id>
+    <Timesheet>	465972	</Timesheet>
+    <Date>	12-Dec-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	12:15	</TimeIn>
+    <TimeOut>	13:15	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161223	</Id>
+    <Timesheet>	465972	</Timesheet>
+    <Date>	12-Dec-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161224	</Id>
+    <Timesheet>	465972	</Timesheet>
+    <Date>	12-Dec-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161225	</Id>
+    <Timesheet>	465971	</Timesheet>
+    <Date>	12-Dec-2016	</Date>
+    <AllocHours>	1.5	</AllocHours>
+    <TimeIn>	8:30	</TimeIn>
+    <TimeOut>	9:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161226	</Id>
+    <Timesheet>	465972	</Timesheet>
+    <Date>	13-Dec-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	12:00	</TimeIn>
+    <TimeOut>	13:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161227	</Id>
+    <Timesheet>	465972	</Timesheet>
+    <Date>	13-Dec-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161228	</Id>
+    <Timesheet>	465972	</Timesheet>
+    <Date>	13-Dec-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161229	</Id>
+    <Timesheet>	465971	</Timesheet>
+    <Date>	13-Dec-2016	</Date>
+    <AllocHours>	1.5	</AllocHours>
+    <TimeIn>	8:30	</TimeIn>
+    <TimeOut>	9:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161230	</Id>
+    <Timesheet>	465972	</Timesheet>
+    <Date>	14-Dec-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	12:00	</TimeIn>
+    <TimeOut>	13:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161231	</Id>
+    <Timesheet>	465972	</Timesheet>
+    <Date>	14-Dec-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161232	</Id>
+    <Timesheet>	465972	</Timesheet>
+    <Date>	14-Dec-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161233	</Id>
+    <Timesheet>	465971	</Timesheet>
+    <Date>	14-Dec-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	8:30	</TimeIn>
+    <TimeOut>	9:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161234	</Id>
+    <Timesheet>	465972	</Timesheet>
+    <Date>	15-Dec-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	12:00	</TimeIn>
+    <TimeOut>	13:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161235	</Id>
+    <Timesheet>	465972	</Timesheet>
+    <Date>	15-Dec-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161236	</Id>
+    <Timesheet>	465972	</Timesheet>
+    <Date>	15-Dec-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161237	</Id>
+    <Timesheet>	465971	</Timesheet>
+    <Date>	15-Dec-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	8:30	</TimeIn>
+    <TimeOut>	9:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161238	</Id>
+    <Timesheet>	465972	</Timesheet>
+    <Date>	16-Dec-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	12:00	</TimeIn>
+    <TimeOut>	13:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161239	</Id>
+    <Timesheet>	465972	</Timesheet>
+    <Date>	16-Dec-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	17:00	</TimeIn>
+    <TimeOut>	17:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161240	</Id>
+    <Timesheet>	465972	</Timesheet>
+    <Date>	16-Dec-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161241	</Id>
+    <Timesheet>	465971	</Timesheet>
+    <Date>	16-Dec-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	8:30	</TimeIn>
+    <TimeOut>	9:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161242	</Id>
+    <Timesheet>	460416	</Timesheet>
+    <Date>	17-Dec-2016	</Date>
+    <AllocHours>	1.5	</AllocHours>
+    <TimeIn>	8:00	</TimeIn>
+    <TimeOut>	9:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161243	</Id>
+    <Timesheet>	460416	</Timesheet>
+    <Date>	17-Dec-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	12:00	</TimeIn>
+    <TimeOut>	13:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161244	</Id>
+    <Timesheet>	460416	</Timesheet>
+    <Date>	17-Dec-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	16:00	</TimeIn>
+    <TimeOut>	16:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161245	</Id>
+    <Timesheet>	465972	</Timesheet>
+    <Date>	17-Dec-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:30	</TimeIn>
+    <TimeOut>	20:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161246	</Id>
+    <Timesheet>	460416	</Timesheet>
+    <Date>	18-Dec-2016	</Date>
+    <AllocHours>	1.5	</AllocHours>
+    <TimeIn>	8:00	</TimeIn>
+    <TimeOut>	9:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161247	</Id>
+    <Timesheet>	460416	</Timesheet>
+    <Date>	18-Dec-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	12:00	</TimeIn>
+    <TimeOut>	13:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161248	</Id>
+    <Timesheet>	460416	</Timesheet>
+    <Date>	18-Dec-2016	</Date>
+    <AllocHours>	0.5	</AllocHours>
+    <TimeIn>	16:00	</TimeIn>
+    <TimeOut>	16:30	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+  <WorkPeriod>
+    <Id>	20161249	</Id>
+    <Timesheet>	460416	</Timesheet>
+    <Date>	18-Dec-2016	</Date>
+    <AllocHours>	1	</AllocHours>
+    <TimeIn>	19:00	</TimeIn>
+    <TimeOut>	20:00	</TimeOut>
+    <ActualService>	PC	</ActualService>
+  </WorkPeriod>
+</WorkPeriods>
