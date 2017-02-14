@@ -67,6 +67,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="default.aspx" />
     <Content Include="GetInvoice.aspx" />
     <Content Include="packages.config" />
     <None Include="Properties\PublishProfiles\LittleDwarfsAgency - Web Deploy.pubxml" />
@@ -91,6 +92,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="dbConnection.cs" />
+    <Compile Include="default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
     <Compile Include="GetInvoice.aspx.cs">
       <DependentUpon>GetInvoice.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

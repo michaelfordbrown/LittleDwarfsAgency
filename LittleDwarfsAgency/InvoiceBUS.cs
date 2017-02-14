@@ -41,6 +41,13 @@ namespace LittleDwarfsAgency
             }
         }
 
+        public void setInvoiceInInvoices (int id, int invoice, string accountref, DateTime invoicedate)
+        {
+
+            _invoiceDAO.insertInvoiceIntoInvoices(id, invoice, accountref, invoicedate);
+
+        }
+
         
     }
 }

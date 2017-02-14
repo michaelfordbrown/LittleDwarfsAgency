@@ -19,7 +19,7 @@ namespace LittleDwarfsAgency
         public dbConnection()
         {
             myAdapter = new SqlDataAdapter();
-            conn = new SqlConnection(ConfigurationManager.ConnectionStrings["DA"].ConnectionString);
+            conn = new SqlConnection(ConfigurationManager.ConnectionStrings["AZ"].ConnectionString);
         }
 
         // <method>

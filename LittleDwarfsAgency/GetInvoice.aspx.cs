@@ -114,5 +114,40 @@ namespace LittleDwarfsAgency
 
         }
 
+        protected void btnSubInvoice_Click(object sender, EventArgs e)
+        {
+            int id;
+            int invoice;
+            string accountref;
+            DateTime invoicedate;
+
+            id = Convert.ToInt32(txtIdSub.Text);
+            invoice = Convert.ToInt32(txtInvoiceSub.Text);
+            accountref = txtAccountRefSub.Text.ToString();
+            invoicedate = Convert.ToDateTime(txtInvoiceDateSub.Text.ToString());
+
+            _invoiceBUS.setInvoiceInInvoices(id, invoice, accountref, invoicedate);
+        }
+
+        protected void btnSubInvoiceList_Click(object sender, EventArgs e)
+        {
+            int id;
+            int invoice;
+            DateTime weekending;
+            int timesheet;
+            float hoursworked;
+            float rate;
+            float cost;
+
+            id  = Convert.ToInt32(txtIdSub.Text);
+            invoice = Convert.ToInt32(txtInvoiceSub.Text);
+            weekending = Convert.ToDateTime(txtWeekendingSub.Text.ToString());
+            timesheet = Convert.ToInt32(txtTimesheetSub.Text);
+            hoursworked = float.Parse(txtHoursWorkedSub.Text.ToString());
+            rate = float.Parse(txtRateSub.Text.ToString());
+            cost = float.Parse(txtCostSub.Text.ToString());
+
+            _invoiceListBUS.setTimesheetSummaryInInvoices(id, invoice, weekending, timesheet, hoursworked, rate, cost);
+        }
     }
 }

@@ -26,7 +26,7 @@ namespace LittleDwarfsAgency
 
         protected void DeleteAllData_Click(object sender, EventArgs e)
         {
-            string cs = ConfigurationManager.ConnectionStrings["DA"].ConnectionString;
+            string cs = ConfigurationManager.ConnectionStrings["AZ"].ConnectionString;
             SqlConnection con = new SqlConnection(cs);
 
             try
@@ -51,7 +51,7 @@ namespace LittleDwarfsAgency
 
         protected void CheckSizeofInvoiceData_Click(object sender, EventArgs e)
         {
-            string cs = ConfigurationManager.ConnectionStrings["DA"].ConnectionString;
+            string cs = ConfigurationManager.ConnectionStrings["AZ"].ConnectionString;
             SqlConnection con = new SqlConnection(cs);
 
             SqlCommand cmd = new SqlCommand("select count(*) from Invoices", con);
@@ -78,7 +78,7 @@ namespace LittleDwarfsAgency
 
         protected void CheckSizeofTimesheetData_Click(object sender, EventArgs e)
         {
-            string cs = ConfigurationManager.ConnectionStrings["DA"].ConnectionString;
+            string cs = ConfigurationManager.ConnectionStrings["AZ"].ConnectionString;
             SqlConnection con = new SqlConnection(cs);
 
             SqlCommand cmd = new SqlCommand("select count(*) from Timesheet", con);
@@ -104,7 +104,7 @@ namespace LittleDwarfsAgency
         }
         protected void CheckSizeofAllTables_Click(object sender, EventArgs e)
         {
-            string cs = ConfigurationManager.ConnectionStrings["DA"].ConnectionString;
+            string cs = ConfigurationManager.ConnectionStrings["AZ"].ConnectionString;
             SqlConnection con = new SqlConnection(cs);
 
             SqlCommand cmdCheckTimesheet = new SqlCommand("select count(*) from Timesheet", con);
@@ -211,7 +211,7 @@ namespace LittleDwarfsAgency
 
         protected void LoadAllDefaultData_Click(object sender, EventArgs e)
         {
-            string cs = ConfigurationManager.ConnectionStrings["DA"].ConnectionString;
+            string cs = ConfigurationManager.ConnectionStrings["AZ"].ConnectionString;
             SqlConnection con = new SqlConnection(cs);
 
             DataSet dsTimesheet = new DataSet();
@@ -278,7 +278,7 @@ namespace LittleDwarfsAgency
 
         protected void LoadInvoiceTable_Click(object sender, EventArgs e)
         {
-            string cs = ConfigurationManager.ConnectionStrings["DA"].ConnectionString;
+            string cs = ConfigurationManager.ConnectionStrings["AZ"].ConnectionString;
             SqlConnection con = new SqlConnection(cs);
 
             SqlCommand sqlcmd = new SqlCommand("select * from Invoices", con);
@@ -297,7 +297,7 @@ namespace LittleDwarfsAgency
 
         protected void LoadDailyChargesView_Click(object sender, EventArgs e)
         {
-            string cs = ConfigurationManager.ConnectionStrings["DA"].ConnectionString;
+            string cs = ConfigurationManager.ConnectionStrings["AZ"].ConnectionString;
             SqlConnection con = new SqlConnection(cs);
 
             SqlCommand sqlcmd = new SqlCommand("select * from DailyCharges", con);

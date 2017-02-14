@@ -41,5 +41,28 @@ namespace LittleDwarfsAgency
             return conn.executeSelectQuery(query, sqlParameter);
 
         }
+
+        public void insertInvoiceIntoInvoices(int _Id, int _Invoice, string _AccountRef, DateTime _InvoiceDate)
+        {
+            string _table = "Invoices";
+
+            string query = string.Format("insert into {0} (Id, Invoice, AccountRef,InvoiceDate) values(@t01_id, @t01_invoice, @t01_accountref, @t01_invoicedate)", _table);
+
+            SqlParameter[] sqlParameter = new SqlParameter[4];
+
+            sqlParameter[0] = new SqlParameter("@t01_id", SqlDbType.Int);
+            sqlParameter[0].Value = _Id;
+
+            sqlParameter[1] = new SqlParameter("@t01_invoice", SqlDbType.Int);
+            sqlParameter[1].Value = _Invoice;
+
+            sqlParameter[2] = new SqlParameter("@t01_accountref", SqlDbType.Text);
+            sqlParameter[2].Value = _AccountRef;
+
+            sqlParameter[3] = new SqlParameter("@t01_invoicedate", SqlDbType.Date);
+            sqlParameter[3].Value = _InvoiceDate;
+
+            conn.executeInsertQuery(query, sqlParameter);
+        }
     }
 }

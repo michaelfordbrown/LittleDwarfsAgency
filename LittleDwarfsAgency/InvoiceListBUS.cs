@@ -44,6 +44,9 @@ namespace LittleDwarfsAgency
             }
         }
 
-
+        public void setTimesheetSummaryInInvoices(int id, int invoice, DateTime weekending, int timesheet, float hoursworked, float rate, float cost)
+        {
+            _invoiceListDAO.insertTimesheetSummaryIntoInvoiceLists(id, invoice, weekending, timesheet, hoursworked, rate, cost);
+        }
     }
 }
