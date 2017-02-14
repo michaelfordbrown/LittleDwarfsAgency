@@ -99,6 +99,9 @@
       <DependentUpon>GetInvoice.aspx</DependentUpon>
     </Compile>
     <Compile Include="InvoiceBUS.cs" />
+    <Compile Include="InvoiceListBUS.cs" />
+    <Compile Include="InvoiceListDAO.cs" />
+    <Compile Include="InvoiceListVO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="InvoiceDAO.cs" />
     <Compile Include="InvoiceVO.cs" />

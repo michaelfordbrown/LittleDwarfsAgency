@@ -15,31 +15,32 @@ namespace LittleDwarfsAgency
             _invoiceDAO = new InvoiceDAO();
         }
 
-        public InvoiceVO getInvoiceByInvoiceNumber (int invoice)
+        public List<InvoiceVO> getInvoiceByInvoiceNumber (int invoice)
         {
-            InvoiceVO invoiceVO  = new InvoiceVO();
+            List<InvoiceVO> invoiceVOList  = new List<InvoiceVO>();
             DataTable dataTable = new DataTable();
 
-            dataTable = _invoiceDAO.searchByInvoiceNumber(invoice);
+            dataTable = _invoiceDAO.searchInvoicesByInvoiceNumber(invoice);
 
             if (dataTable.Rows.Count > 0){
                 foreach (DataRow dr in dataTable.Rows)
                 {
-                    Console.Write("SQL Search Found!");
-                    invoiceVO.Id = Int32.Parse(dr[0].ToString());
-                    invoiceVO.Invoice = Int32.Parse(dr[1].ToString());
-                    invoiceVO.AccountRef = dr[2].ToString();
-                    invoiceVO.InvoiceDate = Convert.ToDateTime(dr[3]);
+                    invoiceVOList.Add(new InvoiceVO()
+                    {
+                        Id = Int32.Parse(dr[0].ToString()),
+                        Invoice = Int32.Parse(dr[1].ToString()),
+                        AccountRef = dr[2].ToString(),
+                        InvoiceDate = Convert.ToDateTime(dr[3])
+                    });
                 }
-                return invoiceVO;
+                return invoiceVOList;
             }
             else
             {
-                Console.Write("SQL Search NULL!");
                 return null;
             }
-            
-
         }
+
+        
     }
 }

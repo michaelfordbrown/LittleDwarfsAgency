@@ -22,7 +22,7 @@ namespace LittleDwarfsAgency
         // <method>
         // Get Invoice By Invoice Number and return DataTable
         // </method>
-        public DataTable searchByInvoiceNumber(int _invoice)
+        public DataTable searchInvoicesByInvoiceNumber(int _invoice)
         {
             string _table = "Invoices";
             string _field = "Invoice";
