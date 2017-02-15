@@ -69,6 +69,9 @@
   <ItemGroup>
     <Content Include="default.aspx" />
     <Content Include="GetInvoice.aspx" />
+    <Content Include="img\3TAOverview.jpg" />
+    <Content Include="img\3TAPMD.jpg" />
+    <Content Include="img\3TMDesCom.jpg" />
     <Content Include="packages.config" />
     <None Include="Properties\PublishProfiles\LittleDwarfsAgency - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">

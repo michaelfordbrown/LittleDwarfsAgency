@@ -48,6 +48,12 @@ namespace LittleDwarfsAgency
 
         }
 
-        
+        public bool deleteInvoiceInvoices(int invoice)
+        {
+
+            return (_invoiceDAO.deleteInvoiceByInvoiceNumber(invoice));
+
+        }
+
     }
 }

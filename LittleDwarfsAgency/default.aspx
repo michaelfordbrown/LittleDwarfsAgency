@@ -11,8 +11,8 @@
         <h1>Little Dwarf Agency (Under Development)</h1>
     <div>
         <h2>Page Links:</h2>
-        <a href="XMLHandler.aspx">XML File Handler</a><br />
-        <a href="GetInvoice.aspx">Invoice Handler</a>
+        <a href="XMLHandler.aspx">XML File Handler (ASP.NET Controls Example)</a><br />
+        <a href="GetInvoice.aspx">Invoice Handler (ASP.NET 3 Tier Architecture Example)</a>
     </div>
     </form>
 </body>

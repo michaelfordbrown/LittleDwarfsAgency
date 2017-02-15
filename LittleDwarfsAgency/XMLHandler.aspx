@@ -10,7 +10,7 @@
     <form id="form1" runat="server">
         <div>
         </div>
-        <h1>Little Dwarfs Agency: XML File Handler</h1>
+        <h1>Little Dwarfs Agency: XML File Handler (ASP.NET Controls Example)</h1>
         <h2>Load XML Files</h2>
         <p>
             &nbsp;&nbsp;&nbsp;

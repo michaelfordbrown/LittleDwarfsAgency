@@ -149,5 +149,20 @@ namespace LittleDwarfsAgency
 
             _invoiceListBUS.setTimesheetSummaryInInvoices(id, invoice, weekending, timesheet, hoursworked, rate, cost);
         }
+
+        protected void btnSubInvoiceDelete_Click(object sender, EventArgs e)
+        {
+            int invoice;
+            invoice = Convert.ToInt32(txtInvoiceSub.Text);
+
+            if (_invoiceBUS.deleteInvoiceInvoices(invoice))
+            {
+                txtInvoiceDelSub.Text = "Invoice Delete";
+            }
+            else
+            {
+                txtInvoiceDelSub.Text = "Delete Error";
+            }
+        }
     }
 }
