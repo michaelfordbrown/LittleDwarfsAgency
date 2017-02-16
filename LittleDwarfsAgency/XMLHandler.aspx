@@ -8,60 +8,72 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>
-        </div>
+        <!--  ASP.NET controls are objects on web pages that run when the page is requested and that render markup to a browser. 
+              Microsoft's web server controls resemble familiar HTML elements, such as buttons and text boxes. 
+              Other controls encompass complex behavior, such as a calendar controls, and controls that manage data connections. -->
         <h1>Little Dwarfs Agency: XML File Handler (ASP.NET Controls Example)</h1>
-        <h2>Load XML Files</h2>
-        <p>
+        <a href="https://github.com/michaelfordbrown/LittleDwarfsAgency/blob/master/LittleDwarfsAgency/XMLHandler.aspx">XML Handler Page File</a><br />
+        <a href="https://github.com/michaelfordbrown/LittleDwarfsAgency/blob/master/LittleDwarfsAgency/XMLHandler.aspx.cs">XML Handler Code Behind File</a>
+        <p>This page houses a series of ASP.NET controls that allow the user to manage the Little Dwarf Agency database:</p>
+        <h2>Load Default Table Data</h2>
+        <p>These controls use XML data files to reload the original test data that has been transfered from the spreadsheet implementation:</p>
+        <!-- The Button control can create a push button on the page that lets users to post a page to the server. 
+               It triggers an event in server code that can be handled to respond to the postback (page is submitted to itself). 
+               Also raise an event in client script that can be handled before the page is posted. -->
+        <div style="margin-left: auto; margin-right: auto; text-align: center;">
+            <asp:Button ID="Button1" runat="server" Text="Load All Default Tables" OnClick="LoadAllDefaultData_Click" Width="300px" />
             &nbsp;&nbsp;&nbsp;
-            <asp:Button ID="Button1" runat="server" Text="Load All Default Database" OnClick="LoadAllDefaultData_Click" Width="262px" />
+        <asp:Button ID="Button2" runat="server" OnClick="Button1_Click" Text="Load Default Invoice Table" Width="300px" />
             &nbsp;&nbsp;&nbsp;
-        <asp:Button ID="Button2" runat="server" OnClick="Button1_Click" Text="Load Default Invoice Data" Width="245px" />
+        <asp:Button ID="Button3" runat="server" OnClick="Button1_Click" Text="Load Default Timesheet Table" Width="300px" />
+        </div>
+        <br />
+        <!-- Label controls are used to display text in a set location on the page. 
+               These controls can be customize the displayed text through the Text property. -->
+        <div style="margin-left: auto; margin-right: auto; text-align: center;">
+            <asp:Label ID="Label1" runat="server" Text="Load Status" Width="300px"></asp:Label>
+        </div>
+        <br />
+        <h2>Delete Table Data</h2>
+        <p>These controls truncate table data in the Little Dwarf Agency:</p>
+        <div style="margin-left: auto; margin-right: auto; text-align: center;">
+            <asp:Button ID="Button4" runat="server" OnClick="DeleteAllData_Click" Text="Delete All Data" Width="300px" />
             &nbsp;&nbsp;&nbsp;
-        <asp:Button ID="Button3" runat="server" OnClick="Button1_Click" Text="Load Default Timesheet Data" Width="289px" />
-        </p>
-        <p>
-            <asp:Label ID="Label1" runat="server" Text="Load Status"></asp:Label>
-        </p>
-        <p>
+        <asp:Button ID="Button5" runat="server" OnClick="Button1_Click" Text="Delete All Invoice Data" Width="300px" />
             &nbsp;&nbsp;&nbsp;
-            <asp:Button ID="Button4" runat="server" OnClick="DeleteAllData_Click" Text="Delete All Data"  Width="261px" />
-            &nbsp;&nbsp;&nbsp;
-        <asp:Button ID="Button5" runat="server" OnClick="Button1_Click" Text="Delete All Invoice Data" Width="245px" />
-            &nbsp;&nbsp;&nbsp;
-        <asp:Button ID="Button6" runat="server" OnClick="Button1_Click" Text="Delete All Timesheet Data" Width="289px" />
-        </p>
-        <p>
+        <asp:Button ID="Button6" runat="server" OnClick="Button1_Click" Text="Delete All Timesheet Data" Width="300px" />
+        </div>
+        <br />
+        <div style="margin-left: auto; margin-right: auto; text-align: center;">
             <asp:Label ID="DeleteStatus" runat="server" Text="Delete Status"></asp:Label>
-        </p>
-        <p>
+        </div>
+        <br />
+        <h2>Check Size Table Data</h2>
+        <p>These controls measure the size of the table data in the Little Dwarf Agency:</p>
+        <div style="margin-left: auto; margin-right: auto; text-align: center;">
+            <asp:Button ID="Button7" runat="server" OnClick="CheckSizeofAllTables_Click" Text="Check Size of All Tables" Width="300px" />
             &nbsp;&nbsp;&nbsp;
-            <asp:Button ID="Button7" runat="server" OnClick="CheckSizeofAllTables_Click" Text="Check Size of All Tables"  Width="261px" />
+        <asp:Button ID="Button8" runat="server" OnClick="CheckSizeofInvoiceData_Click" Text="Check Size of Invoice Data" Width="300px" />
             &nbsp;&nbsp;&nbsp;
-        <asp:Button ID="Button8" runat="server" OnClick="CheckSizeofInvoiceData_Click" Text="Check Size of Invoice Data" Width="245px" />
-            &nbsp;&nbsp;&nbsp;
-        <asp:Button ID="Button9" runat="server" OnClick="CheckSizeofTimesheetData_Click" Text="Check Size of Timesheet Data" Width="289px" />
-        </p>
-        <p>
+        <asp:Button ID="Button9" runat="server" OnClick="CheckSizeofTimesheetData_Click" Text="Check Size of Timesheet Data" Width="300px" />
+        </div>
+        <div style="margin-left: auto; margin-right: auto; text-align: center;">
             <asp:Label ID="Label2" runat="server" Text="Size Status"></asp:Label>
-        </p>
-        <p>
-            &nbsp;&nbsp;&nbsp;
-            <asp:Button ID="Button10" runat="server" OnClick="Button1_Click" Text="Display All Table and Views"  Width="261px" />
-        </p>
-
-        <h2>Tables</h2>
+        </div>
+        <br />
+        <h2>Display Tables</h2>
+        <p>These controls display content data from Tables:</p>
+            <asp:Button ID="Button10" runat="server" OnClick="Button1_Click" Text="Display All Table and Views" Width="300px" />
         <h3>Invoice Table:</h3>
-        <asp:Button ID="Button11" runat="server" Text="Load Invoice Table" OnClick="LoadInvoiceTable_Click" />
-        <p>&nbsp;</p>
+        <asp:Button ID="Button11" runat="server" Text="Load Invoice Table" OnClick="LoadInvoiceTable_Click"  Width="300px"/>
+        <br />
         <asp:GridView ID="GridView1" runat="server">
         </asp:GridView>
         <h3>Daily Charges View:</h3>
-        <asp:Button ID="Button12" runat="server" Text="Load Daily Charges View" OnClick="LoadDailyChargesView_Click" />
-        <p>&nbsp;</p>
+        <asp:Button ID="Button12" runat="server" Text="Load Daily Charges View" OnClick="LoadDailyChargesView_Click"  Width="300px"/>
+        <br />
         <asp:GridView ID="GridView2" runat="server">
         </asp:GridView>
-
     </form>
 </body>
 </html>
