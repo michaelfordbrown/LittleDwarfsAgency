@@ -39,9 +39,9 @@
         <div style="margin-left: auto; margin-right: auto; text-align: center;">
             <asp:Button ID="Button4" runat="server" OnClick="DeleteAllData_Click" Text="Delete All Data" Width="300px" />
             &nbsp;&nbsp;&nbsp;
-        <asp:Button ID="Button5" runat="server" OnClick="Button1_Click" Text="Delete All Invoice Data" Width="300px" />
+        <asp:Button ID="Button5" runat="server" OnClick="DeleteAllInvoiceData_Click" Text="Delete All Invoice Data" Width="300px" />
             &nbsp;&nbsp;&nbsp;
-        <asp:Button ID="Button6" runat="server" OnClick="Button1_Click" Text="Delete All Timesheet Data" Width="300px" />
+        <asp:Button ID="Button6" runat="server" OnClick="DeleteAllTimesheetData_Click" Text="Delete All Timesheet Data" Width="300px" />
         </div>
         <br />
         <div style="margin-left: auto; margin-right: auto; text-align: center;">

@@ -48,12 +48,66 @@ namespace LittleDwarfsAgency
             }
         }
 
+        protected void DeleteAllInvoiceData_Click(object sender, EventArgs e)
+        {
+            string cs = ConfigurationManager.ConnectionStrings["AZ"].ConnectionString;
+            SqlConnection con = new SqlConnection(cs);
+
+            try
+            {
+                con.Open();
+                SqlCommand cmd = new SqlCommand("ClearInvoicesTableProcedure", con);
+                SqlDataReader dr = cmd.ExecuteReader();
+                con.Close();
+
+                con.Open();
+                cmd = new SqlCommand("ClearInvoiceListsTableProcedure", con);
+                dr = cmd.ExecuteReader();
+
+                DeleteStatus.Text = "All Invoice Tables Cleared";
+            }
+            catch (SqlException ex)
+            {
+                DeleteStatus.Text = "Exception Error! " + ex.Message;
+            }
+            finally
+            {
+                con.Close();
+            }
+        }
+
+        protected void DeleteAllTimesheetData_Click(object sender, EventArgs e)
+        {
+            string cs = ConfigurationManager.ConnectionStrings["AZ"].ConnectionString;
+            SqlConnection con = new SqlConnection(cs);
+
+            try
+            {
+                con.Open();
+                SqlCommand cmd = new SqlCommand("ClearTimesheetTableProcedure", con);
+                SqlDataReader dr = cmd.ExecuteReader();
+                con.Close();
+
+                con.Open();
+                cmd = new SqlCommand("ClearWorkPeriodTableProcedure", con);
+                dr = cmd.ExecuteReader();
+
+                DeleteStatus.Text = "All Timesheet Tables Cleared";
+            }
+            catch (SqlException ex)
+            {
+                DeleteStatus.Text = "Exception Error! " + ex.Message;
+            }
+            finally
+            {
+                con.Close();
+            }
+        }
 
         protected void CheckSizeofInvoiceData_Click(object sender, EventArgs e)
         {
             string cs = ConfigurationManager.ConnectionStrings["AZ"].ConnectionString;
             SqlConnection con = new SqlConnection(cs);
-
             SqlCommand cmd = new SqlCommand("select count(*) from Invoices", con);
 
             try
@@ -151,7 +205,7 @@ namespace LittleDwarfsAgency
                 bc.DestinationTableName = "WorkPeriod";
                 bc.ColumnMappings.Add("Id", "Id");
                 bc.ColumnMappings.Add("Timesheet", "Timesheet");
-                bc.ColumnMappings.Add("Date", "PeriodDate");
+                bc.ColumnMappings.Add("Date", "PeriodDate".Substring(0,10));
                 bc.ColumnMappings.Add("AllocHours", "AllocHours");
                 bc.ColumnMappings.Add("TimeIn", "TimeIn");
                 bc.ColumnMappings.Add("TimeOut", "TimeExit");
@@ -221,11 +275,18 @@ namespace LittleDwarfsAgency
 
             int TimesheetSize = 0;
             int InvoicesSize = 0;
+            int InvoiceListsSize = 0;
+            int WorkPeriodSize = 0;
 
             SqlCommand cmdCheckTimesheet = new SqlCommand("select count(*) from Timesheet", con);
             SqlCommand cmdCheckInvoices = new SqlCommand("select count(*) from Invoices", con);
+            SqlCommand cmdCheckInvoiceLists = new SqlCommand("select count(*) from InvoiceLists", con);
+            SqlCommand cmdCheckWorkPeriod = new SqlCommand("select count(*) from WorkPeriod", con);
 
             string sizeOfTimesheet = "0";
+            string sizeOfInvoices = "0";
+            string sizeOfInvoiceLists = "0";
+            string sizeOfWorkPeriod = "0";
 
             try
             {
@@ -239,12 +300,30 @@ namespace LittleDwarfsAgency
                 }
                 drCheckTimesheet.Close();
 
+                SqlDataReader drCheckInvoiceLists = cmdCheckInvoiceLists.ExecuteReader();
+                while (drCheckInvoiceLists.Read())
+                {
+                    sizeOfInvoiceLists = drCheckInvoiceLists[0].ToString();
+                    InvoiceListsSize = Convert.ToInt32(drCheckInvoiceLists[0].ToString());
+                }
+                drCheckInvoiceLists.Close();
+
+                SqlDataReader drCheckWorkPeriod = cmdCheckWorkPeriod.ExecuteReader();
+                while (drCheckWorkPeriod.Read())
+                {
+                    sizeOfWorkPeriod = drCheckWorkPeriod[0].ToString();
+                    WorkPeriodSize = Convert.ToInt32(drCheckWorkPeriod[0].ToString());
+                }
+                drCheckWorkPeriod.Close();
+
                 SqlDataReader drCheckInvoices = cmdCheckInvoices.ExecuteReader();
                 while (drCheckInvoices.Read())
                 {
                     InvoicesSize = Convert.ToInt32(drCheckInvoices[0].ToString());
                     Label2.Text = "Size of Invoices : " + drCheckInvoices[0].ToString() +
-                        " Timesheet: " + sizeOfTimesheet;
+                                           " InvoiceLists : " + sizeOfInvoiceLists +
+                                           " Timesheet: " + sizeOfTimesheet +
+                                           " WorkPeriod: " + sizeOfWorkPeriod;
                 }
                 drCheckInvoices.Close();
 

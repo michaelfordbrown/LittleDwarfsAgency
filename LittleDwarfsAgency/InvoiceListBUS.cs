@@ -13,6 +13,24 @@ namespace LittleDwarfsAgency
         {
             _invoiceListDAO = new InvoiceListDAO();
         }
+        
+        public int getNextInvoiceListsId()
+        {
+            DataTable dataTable = new DataTable();
+            List<InvoiceListVO> invoiceListsVOList = new List<InvoiceListVO>();
+
+            dataTable = _invoiceListDAO.highestInvoiceId();
+
+            foreach (DataRow dr in dataTable.Rows)
+            {
+                invoiceListsVOList.Add(new InvoiceListVO()
+                {
+                    Id = Int32.Parse(dr[0].ToString()),
+                });
+            }
+
+            return Int32.Parse(invoiceListsVOList[0].Id.ToString());
+        }
 
         public List<InvoiceListVO> getInvoiceListByInvoiceNumber(int invoice)
         {

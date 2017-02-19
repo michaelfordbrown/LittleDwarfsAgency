@@ -121,7 +121,8 @@ namespace LittleDwarfsAgency
             string accountref;
             DateTime invoicedate;
 
-            id = Convert.ToInt32(txtIdSub.Text);
+            //            id = Convert.ToInt32(txtIdSub.Text);
+            id = _invoiceBUS.getNextInvoiceId() + 1;
             invoice = Convert.ToInt32(txtInvoiceSub.Text);
             accountref = txtAccountRefSub.Text.ToString();
             invoicedate = Convert.ToDateTime(txtInvoiceDateSub.Text.ToString());
@@ -139,8 +140,8 @@ namespace LittleDwarfsAgency
             float rate;
             float cost;
 
-            id  = Convert.ToInt32(txtIdSub.Text);
-            invoice = Convert.ToInt32(txtInvoiceSub.Text);
+            id = _invoiceListBUS.getNextInvoiceListsId() + 1;
+            invoice = Convert.ToInt32(txtWeekendingInvoiceSub.Text);
             weekending = Convert.ToDateTime(txtWeekendingSub.Text.ToString());
             timesheet = Convert.ToInt32(txtTimesheetSub.Text);
             hoursworked = float.Parse(txtHoursWorkedSub.Text.ToString());
@@ -153,7 +154,7 @@ namespace LittleDwarfsAgency
         protected void btnSubInvoiceDelete_Click(object sender, EventArgs e)
         {
             int invoice;
-            invoice = Convert.ToInt32(txtInvoiceSub.Text);
+            invoice = Convert.ToInt32(txtInvoiceDelSub.Text);
 
             if (_invoiceBUS.deleteInvoiceInvoices(invoice))
             {

@@ -86,9 +86,7 @@
 
         <h3>Append New Invoice:</h3>
         <h4>Enter New Invoice Data</h4>
-        <asp:Label ID="Label6" runat="server" Text="Id" Width="240px"></asp:Label>&nbsp
         <asp:Label ID="Label7" runat="server" Text="Invoice" Width="240px"></asp:Label><br />
-        <asp:TextBox ID="txtIdSub" runat="server" Width="240px">"number"</asp:TextBox>&nbsp
         <asp:TextBox ID="txtInvoiceSub" runat="server" Width="240px">"number"</asp:TextBox><br />
 
         <asp:Label ID="Label8" runat="server" Text="Account Reference" Width="240px"></asp:Label>&nbsp
@@ -100,6 +98,8 @@
 
         <h4>Enter New Time Sheet Summary For Invoice</h4>
 
+        <asp:Label ID="Label6" runat="server" Text="Invoice" Width="240px"></asp:Label><br />
+        <asp:TextBox ID="txtWeekendingInvoiceSub" runat="server" Width="240px">"number"</asp:TextBox><br />
         <asp:Label ID="Label1" runat="server" Text="Weekending Date" Width="240px"></asp:Label>&nbsp
         <asp:Label ID="Label2" runat="server" Text="Time Sheet Number" Width="240px"></asp:Label><br />
         <asp:TextBox ID="txtWeekendingSub" runat="server" Width="240px">"yyyy/mm/dd"</asp:TextBox>&nbsp

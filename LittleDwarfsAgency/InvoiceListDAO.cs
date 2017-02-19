@@ -16,6 +16,23 @@ namespace LittleDwarfsAgency
             conn = new dbConnection();
         }
 
+        public DataTable highestInvoiceId()
+        {
+            string _table = "InvoiceLists";
+            string _field = "Id";
+            DataTable dt = new DataTable();
+
+            string query = string.Format("select max({0}) from {1}", _field, _table);
+
+            SqlParameter[] sqlParameter = new SqlParameter[1];
+
+            sqlParameter[0] = new SqlParameter("@t01_id", SqlDbType.Int);
+            sqlParameter[0].Value = 0;
+
+            return conn.executeSelectQuery(query, sqlParameter);
+
+        }
+
         public DataTable searchInvoiceListByInvoiceNumber(int invoice)
         {
             string _table = "InvoiceLists";
