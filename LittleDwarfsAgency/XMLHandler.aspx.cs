@@ -203,7 +203,6 @@ namespace LittleDwarfsAgency
             using (SqlBulkCopy bc = new SqlBulkCopy(con))
             {
                 bc.DestinationTableName = "WorkPeriod";
-                bc.ColumnMappings.Add("Id", "Id");
                 bc.ColumnMappings.Add("Timesheet", "Timesheet");
                 bc.ColumnMappings.Add("Date", "PeriodDate".Substring(0,10));
                 bc.ColumnMappings.Add("AllocHours", "AllocHours");
@@ -221,7 +220,6 @@ namespace LittleDwarfsAgency
             using (SqlBulkCopy bc = new SqlBulkCopy(con))
             {
                 bc.DestinationTableName = "Timesheet";
-                bc.ColumnMappings.Add("Id", "Id");
                 bc.ColumnMappings.Add("TimesheetNumber", "Timesheet");
                 bc.ColumnMappings.Add("Agency", "Agency");
                 bc.ColumnMappings.Add("CareWorker", "CareWorker");
@@ -236,7 +234,6 @@ namespace LittleDwarfsAgency
             using (SqlBulkCopy bc = new SqlBulkCopy(con))
             {
                 bc.DestinationTableName = "Invoices";
-                bc.ColumnMappings.Add("Id", "Id");
                 bc.ColumnMappings.Add("InvoiceNo", "Invoice");
                 bc.ColumnMappings.Add("AccountRef", "AccountRef");
                 bc.ColumnMappings.Add("Date", "InvoiceDate");
@@ -252,7 +249,6 @@ namespace LittleDwarfsAgency
             using (SqlBulkCopy bc = new SqlBulkCopy(con))
             {
                 bc.DestinationTableName = "[InvoiceLists]";
-                bc.ColumnMappings.Add("Id", "Id");
                 bc.ColumnMappings.Add("Invoice", "Invoice");
                 bc.ColumnMappings.Add("Weekending", "Weekending");
                 bc.ColumnMappings.Add("Timesheet", "Timesheet");
@@ -355,41 +351,107 @@ namespace LittleDwarfsAgency
             }
         }
 
-        protected void LoadInvoiceTable_Click(object sender, EventArgs e)
+        protected void LoadTimesheetTables_Click(object sender, EventArgs e)
         {
             string cs = ConfigurationManager.ConnectionStrings["AZ"].ConnectionString;
             SqlConnection con = new SqlConnection(cs);
 
-            SqlCommand sqlcmd = new SqlCommand("select * from Invoices", con);
+            SqlCommand sqlcmd4 = new SqlCommand("select * from Timesheet", con);
 
-            SqlDataAdapter sda = new SqlDataAdapter();
-            sda.SelectCommand = sqlcmd;
+            SqlDataAdapter sda4 = new SqlDataAdapter();
+            sda4.SelectCommand = sqlcmd4;
 
-            DataTable dt = new DataTable();
-            dt.Locale = System.Globalization.CultureInfo.InstalledUICulture;
+            DataTable dt4 = new DataTable();
+            dt4.Locale = System.Globalization.CultureInfo.InstalledUICulture;
 
-            sda.Fill(dt);
-            GridView1.DataSource = dt;
-            GridView1.DataBind();
+            sda4.Fill(dt4);
+            GridView4.DataSource = dt4;
+            GridView4.DataBind();
 
+            SqlCommand sqlcmd7 = new SqlCommand("select * from WorkPeriod", con);
+
+            SqlDataAdapter sda7 = new SqlDataAdapter();
+            sda7.SelectCommand = sqlcmd7;
+
+            DataTable dt7 = new DataTable();
+            dt7.Locale = System.Globalization.CultureInfo.InstalledUICulture;
+
+            sda7.Fill(dt7);
+            GridView7.DataSource = dt7;
+            GridView7.DataBind();
         }
 
-        protected void LoadDailyChargesView_Click(object sender, EventArgs e)
+
+        protected void LoadInvoiceTables_Click(object sender, EventArgs e)
         {
             string cs = ConfigurationManager.ConnectionStrings["AZ"].ConnectionString;
             SqlConnection con = new SqlConnection(cs);
 
-            SqlCommand sqlcmd = new SqlCommand("select * from DailyCharges", con);
+            SqlCommand sqlcmd1 = new SqlCommand("select * from Invoices", con);
 
-            SqlDataAdapter sda = new SqlDataAdapter();
-            sda.SelectCommand = sqlcmd;
+            SqlDataAdapter sda1 = new SqlDataAdapter();
+            sda1.SelectCommand = sqlcmd1;
 
-            DataTable dt = new DataTable();
-            dt.Locale = System.Globalization.CultureInfo.InstalledUICulture;
+            DataTable dt1 = new DataTable();
+            dt1.Locale = System.Globalization.CultureInfo.InstalledUICulture;
 
-            sda.Fill(dt);
-            GridView2.DataSource = dt;
+            sda1.Fill(dt1);
+            GridView1.DataSource = dt1;
+            GridView1.DataBind();
+
+            SqlCommand sqlcmd3 = new SqlCommand("select * from InvoiceLists", con);
+
+            SqlDataAdapter sda3 = new SqlDataAdapter();
+            sda3.SelectCommand = sqlcmd3;
+
+            DataTable dt3 = new DataTable();
+            dt3.Locale = System.Globalization.CultureInfo.InstalledUICulture;
+
+            sda3.Fill(dt3);
+            GridView3.DataSource = dt3;
+            GridView3.DataBind();
+        }
+
+        protected void LoadAllViews_Click(object sender, EventArgs e)
+        {
+            string cs = ConfigurationManager.ConnectionStrings["AZ"].ConnectionString;
+            SqlConnection con = new SqlConnection(cs);
+
+            SqlCommand sqlcmd2 = new SqlCommand("select * from DailyCharges", con);
+
+            SqlDataAdapter sda2 = new SqlDataAdapter();
+            sda2.SelectCommand = sqlcmd2;
+
+            DataTable dt2 = new DataTable();
+            dt2.Locale = System.Globalization.CultureInfo.InstalledUICulture;
+
+            sda2.Fill(dt2);
+            GridView2.DataSource = dt2;
             GridView2.DataBind();
+
+            SqlCommand sqlcmd5 = new SqlCommand("select * from DailyRates", con);
+
+            SqlDataAdapter sda5 = new SqlDataAdapter();
+            sda5.SelectCommand = sqlcmd5;
+
+            DataTable dt5 = new DataTable();
+            dt5.Locale = System.Globalization.CultureInfo.InstalledUICulture;
+
+            sda5.Fill(dt5);
+            GridView5.DataSource = dt5;
+            GridView5.DataBind();
+
+            SqlCommand sqlcmd6 = new SqlCommand("select * from PeriodRates", con);
+
+            SqlDataAdapter sda6 = new SqlDataAdapter();
+            sda6.SelectCommand = sqlcmd6;
+
+            DataTable dt6 = new DataTable();
+            dt6.Locale = System.Globalization.CultureInfo.InstalledUICulture;
+
+            sda6.Fill(dt6);
+            GridView6.DataSource = dt6;
+            GridView6.DataBind();
         }
     }
 }

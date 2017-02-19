@@ -63,17 +63,44 @@
         <br />
         <h2>Display Tables</h2>
         <p>These controls display content data from Tables:</p>
-            <asp:Button ID="Button10" runat="server" OnClick="Button1_Click" Text="Display All Table and Views" Width="300px" />
-        <h3>Invoice Table:</h3>
-        <asp:Button ID="Button11" runat="server" Text="Load Invoice Table" OnClick="LoadInvoiceTable_Click"  Width="300px"/>
+        <h3>Invoice Tables:</h3>
+        <asp:Button ID="Button11" runat="server" Text="Load Invoice Tables" OnClick="LoadInvoiceTables_Click" Width="300px" />
         <br />
+        <h4>Invoice Table</h4>
         <asp:GridView ID="GridView1" runat="server">
         </asp:GridView>
-        <h3>Daily Charges View:</h3>
-        <asp:Button ID="Button12" runat="server" Text="Load Daily Charges View" OnClick="LoadDailyChargesView_Click"  Width="300px"/>
         <br />
+        <h4>Timesheet Summary Table</h4>
+        <asp:GridView ID="GridView3" runat="server">
+        </asp:GridView>
+        <br />
+        <h3>Timesheet Tables:</h3>
+        <asp:Button ID="Button13" runat="server" Text="Load Timesheet Tables" OnClick="LoadTimesheetTables_Click" Width="300px" />
+        <br />
+        <h4>Timesheet Table</h4>
+        <asp:GridView ID="GridView4" runat="server">
+        </asp:GridView>
+        <br />
+        <h4>Workload Table</h4>
+        <asp:GridView ID="GridView7" runat="server">
+        </asp:GridView>
+        <br />
+
+        <h2>Load All Views:</h2>
+        <asp:Button ID="Button12" runat="server" Text="Load All Views" OnClick="LoadAllViews_Click" Width="300px" />
+        <br />
+        <h3>Daily Charges view</h3>
         <asp:GridView ID="GridView2" runat="server">
         </asp:GridView>
+        <br />
+        <h3>Daily Rates View:</h3>
+        <asp:GridView ID="GridView5" runat="server">
+        </asp:GridView>
+        <br />
+        <h3>Period Rates View:</h3>
+        <asp:GridView ID="GridView6" runat="server">
+        </asp:GridView>
+        <br />
     </form>
 </body>
 </html>
