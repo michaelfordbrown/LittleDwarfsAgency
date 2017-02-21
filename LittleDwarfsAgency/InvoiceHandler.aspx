@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="GetInvoice.aspx.cs" Inherits="LittleDwarfsAgency.GetInvoice" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="InvoiceHandler.aspx.cs" Inherits="LittleDwarfsAgency.GetInvoice" %>
 
 <!DOCTYPE html>
 

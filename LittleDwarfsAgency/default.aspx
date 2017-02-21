@@ -12,7 +12,8 @@
     <div>
         <h2>Page Links:</h2>
         <a href="XMLHandler.aspx">XML File Handler (ASP.NET Controls Example)</a><br />
-        <a href="GetInvoice.aspx">Invoice Handler (ASP.NET 3 Tier Architecture Example)</a>
+        <a href="InvoiceHandler.aspx">Invoice Handler (ASP.NET 3 Tier Architecture Example)</a><br />
+        <a href="TimesheetHandler.aspx">Timesheet Handler (Entity Framework)</a>
     </div>
     </form>
 </body>
